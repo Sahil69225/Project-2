@@ -3,13 +3,12 @@ import java.util.Scanner;
 
 public class FakejobTitle {
     public static void main(String[] args) {
-        // Descriptors (formerly adjectives)
         String[] descriptors = {
             "Quantum", "Digital", "Dynamic", "Innovative", "Synergy", "Strategic",
             "Epic", "Visionary", "Virtual", "Magnetic"
         };
 
-        // Simpler Job Titles
+    
         String[] jobTitles = {
             "Manager","Engineer","Developer","Designer","Analyst","Consultant","Coordinator","Specialist","Technician","Advisor"
         };
